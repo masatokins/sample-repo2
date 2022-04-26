@@ -1,2 +1,2 @@
 # sample-repo2
-復習用
+更新
